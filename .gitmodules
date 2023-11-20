@@ -1,0 +1,9 @@
+[submodule "submodules/pkg-a"]
+	path = submodules/pkg-a
+	url = https://github.com/tdnguyen6/monorepo-semrel-template-pkg
+[submodule "submodules/pkg-b"]
+	path = submodules/pkg-b
+	url = https://github.com/tdnguyen6/monorepo-semrel-template-pkg
+[submodule "submodules/pkg-c"]
+	path = submodules/pkg-c
+	url = https://github.com/tdnguyen6/monorepo-semrel-template-pkg
