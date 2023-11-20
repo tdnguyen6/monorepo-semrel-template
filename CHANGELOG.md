@@ -1,3 +1,10 @@
+## 1.0.0 (2023-11-20)
+
+
+### 📚 Documentation
+
+* **readme:** Init ([42cc2b3](https://github.com/tdnguyen6/monorepo-semrel-template/commit/42cc2b35c41dac8983b7ed50e18eeab0fd33ed49))
+
 ## [1.0.2](https://github.com/tdnguyen6/monorepo-semrel-template-pkg/compare/1.0.1...1.0.2) (2023-11-20)
 
 
